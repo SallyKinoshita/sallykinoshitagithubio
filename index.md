@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 
 sections:
   - title: Sally Kinoshita
     img_path: images/sallyprofile.jpg
