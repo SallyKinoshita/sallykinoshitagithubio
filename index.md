@@ -29,9 +29,6 @@ sections:
     component: features.html
     type: features
   - title: Who is Sally?
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
     component: spotlight.html
     type: spotlight
   - title: To Tell You The Truth...
