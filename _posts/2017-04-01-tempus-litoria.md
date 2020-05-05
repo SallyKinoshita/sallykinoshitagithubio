@@ -5,8 +5,6 @@ excerpt: >-
   facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
   per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
 img_path: images/pic04.jpg
-post_button_label: Details
-date: '2017-04-01'
 layout: page
 ---
 
