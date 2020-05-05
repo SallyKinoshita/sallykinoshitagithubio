@@ -14,11 +14,6 @@
                         <h3>{{ post.title }}</h3>
                     </header>
                     {{ post.excerpt | markdownify }}
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ post.url | relative_url }}" class="button">{{ post.post_button_label }}</a></li>
-                        </ul>
-                    </footer>
                 </div>
             </section>
         {% endfor %}

@@ -1,81 +1,42 @@
 ---
-title: Home
+title: 
 sections:
-  - title: Reflex
-    img_path: images/pic01.jpg
+  - title: Sally Kinoshita
+    img_path: images/sallyprofile.jpg
     content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
-    actions:
-      - label: Get Started
-        url: /generic
-        is_scrolly: false
-        is_primary: false
+      ソフトウェアエンジニア。  
+      主にWeb、ネイティブアプリのサーバーサイド開発に従事。  
+      PHP, Laravel, GraphQLが得意。
     component: intro.html
     type: intro
-  - title: Ipsum malesuada
+  - title: お仕事募集中
     subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
+      正社員(週4日)として働く傍ら、個人事業主として  
+      単発・週1〜月間40h程度のお仕事を募集しております。
     symbol_display:
-      - title: Lorem
+      - title: Code
         icon: fa-code
-      - title: Ipsum
+      - title: Fix
         icon: fa-cog
-      - title: Dolor
-        icon: fa-diamond
-      - title: Feugiat
-        icon: fa-camera-retro
-      - title: Tempus
-        icon: fa-briefcase
+      - title: Database
+        icon: fa-database
+      - title: Sitemap
+        icon: fa-sitemap
+      - title: English
+        icon: fa-font
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
-    actions:
-      - label: Details
-        url: /generic
-        is_scrolly: false
-        is_primary: false
+      想定案件：既存サイト・アプリケーションの追加機能開発・修正(PHP)等
     component: features.html
     type: features
-  - title: Duis torquent
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
-    actions:
-      - label: Details
-        url: /generic
-        is_scrolly: false
-        is_primary: false
+  - title: Who is Sally?
     component: spotlight.html
     type: spotlight
-  - title: Amet ullamcorper
+  - title: To Tell You The Truth...
     content: |-
-      Aptent taciti sociosqu litora torquent et conubia sed etiam.  
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam  
-      turpis mauris, ultricies erat malesuada quis.
-    actions:
-      - label: Get Started
-        url: /generic
-        is_scrolly: false
-        is_primary: false
+      I need jobs not only for money but also experience.  
+      For a junior engineer including me, various developing experience   
+      is essential to develop a better product. 
     component: mission.html
     type: mission
-menus:
-  main:
-    weight: 1
-    title: Home
 layout: home
 ---
